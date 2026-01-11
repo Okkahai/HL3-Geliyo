@@ -26,6 +26,10 @@ wheels/
 # Chrome profile
 chrome-whatsapp-profile/
 
+# Scripts (venv scripts)
+Scripts/
+Lib/
+
 # IDE
 .vscode/
 .idea/
